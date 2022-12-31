@@ -32,7 +32,7 @@ def vacuum():
             y += 1
         x += 1
         y = 0                   
-    pro = (100 - ((z/16)*100))
+    pro = (100 - ((z/18)*100))
     display(room)
     print("performance= ",pro," %")
 

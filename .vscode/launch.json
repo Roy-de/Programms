@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GameOfPeril2",
+            "request": "launch",
+            "mainClass": "GameOfPeril2",
+            "projectName": "PRogramming_b48c36a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnergyExpenditure2",
+            "request": "launch",
+            "mainClass": "EnergyExpenditure2",
+            "projectName": "PRogramming_b48c36a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnergyExpenditure",
+            "request": "launch",
+            "mainClass": "EnergyExpenditure",
+            "projectName": "PRogramming_b48c36a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColumnAlignment",
+            "request": "launch",
+            "mainClass": "ColumnAlignment",
+            "projectName": "PRogramming_b48c36a5"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameOfPeril",
+            "request": "launch",
+            "mainClass": "GameOfPeril",
+            "projectName": "PRogramming_b48c36a5"
+        },
+        {
+            "type": "java",
             "name": "Launch lab",
             "request": "launch",
             "mainClass": "lab",
